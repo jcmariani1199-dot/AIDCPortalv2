@@ -1,0 +1,111 @@
+Please create a button on the top bar - Neo Cloud Positioning. 
+The button will open a form where someone can start to collect information from a person, these questions and answer options will be available. 
+
+Playbook 1: AI Cloud & Infrastructure
+Theme: Delivering scalable, future-proof AI infrastructure.
+
+1. How important is it for you that your AI platform is validated at production scale to minimise risk?
+	• Critically Important - It's a non-negotiable requirement.
+	• Very Important - It's a key factor in our decision-making.
+	• Moderately Important - It's a nice-to-have but not a deal-breaker.
+	• Not Important - We have other methods for risk mitigation. 
+	• Notes: 
+	
+2. Would consolidating all AI workloads (training, fine-tuning, inference, and model serving) onto a single platform simplify operations?
+	• Yes, significantly. It would streamline our entire MLOps lifecycle.
+	• Yes, moderately. It would reduce complexity in some key areas.
+	• Unsure. We need more information to assess the impact.
+	• No. We prefer a multi-platform or best-of-breed approach.
+	• Notes: 
+
+
+3. Do you see value in working with a provider who also runs the same infrastructure commercially, ensuring reliability and best practice?
+	• High Value - Their real-world experience is a major advantage.
+	• Moderate Value - It provides some confidence in the solution's stability.
+	• Low Value - It's not a significant factor in our evaluation.
+	• No Value - We are not concerned with the provider's own use of the infrastructure. 
+	• Notes: 
+	
+4. How critical is it for your AI infrastructure to be powered entirely by renewable energy?
+	• Mandatory Requirement - It is essential for our corporate sustainability goals (CSG).
+	• High Priority - It's a strong preference and a key selection criterion.
+	• Nice-to-Have - We consider it a bonus but not a primary driver.
+	• Not a Priority - This is not a factor in our current infrastructure decisions.
+	• Notes: 
+	
+5. Is data sovereignty and residence a mandatory requirement for your AI initiatives?
+	• Yes - It's a strict, non-negotiable legal and compliance requirement.
+	• Yes - It's a strong preference to maintain control and reduce latency.
+	• It Depends - It's required for specific projects or data types, but not all.
+	• No - It is not a current requirement for our operations. Notes: 
+
+Playbook 2: Deployment Speed & Modularity
+Theme: Accelerating time-to-value while maintaining flexibility.
+
+1. Would reducing deployment timelines by up to half transform your project delivery roadmap?
+	• Yes, it would be transformative for our business strategy.
+	• Yes, it would provide a significant competitive advantage.
+	• It would be beneficial but not fundamentally change our roadmap.
+	• The impact on our overall timeline would be minimal. 
+	• Notes: 
+	
+2. How valuable would it be to have a single partner accountable for the entire build and integration process?
+	• Extremely Valuable - A single point of accountability is a top priority to reduce risk.
+	• Very Valuable - It would significantly simplify project management and vendor relations.
+	• Moderately Valuable - It's helpful but we are comfortable managing multiple vendors.
+	• Not a Priority - We prefer to manage integration partners ourselves. 
+	• Notes:
+	
+3. Do you need modular, scalable building blocks that allow seamless expansion from tens of MW to 100MW+?
+	• Yes - This level of scalability is critical for our long-term growth strategy.
+	• Yes - Modular expansion is important for future-proofing our investment.
+	• We have moderate scalability needs, but not to that extent.
+	• No - Our current scale is sufficient for the foreseeable future. 
+	• Notes: 
+	
+4. How quickly are you looking for a Return on Investment (ROI)?
+	• Within 6-12 months
+	• Within 1-2 years
+	• Within 3-5 years
+	• ROI timeline is not our primary driver; performance is key. 
+	• Notes: 
+	
+5. How much impact would minimising on-site labor, logistics risks, and commissioning complexity have on your operations?
+	• Major Impact - It would solve significant operational headaches and reduce project risk.
+	• Significant Impact - It would lead to considerable cost and time savings.
+	• Moderate Impact - It would be a welcome improvement but not a game-changer.
+	• Minor Impact - These are not major pain points for us. 
+	• Notes: 
+
+Playbook 3: Observability & Lifecycle
+Theme: Managing operations with full transparency and resilience.
+
+1. Would enterprise-grade observability and telemetry simplify operations and troubleshooting in complex AI environments?
+	• Yes, drastically. It's essential for managing our complex environment.
+	• Yes, it would provide significant simplification and reduce our mean time to resolution (MTTR).
+	• It would offer some benefits but is not a critical need.
+	• No, our current monitoring tools are sufficient.
+	• Notes: 
+	
+2. How useful would predictive maintenance and automated lifecycle management be to minimise downtime?
+	• Extremely Useful - Maximising uptime is our top operational priority.
+	• Very Useful - It would be a major contributor to service reliability and efficiency.
+	• Moderately Useful - It's a beneficial feature but not a core requirement.
+	• Not a Priority - We have an established process for maintenance and lifecycle management.
+	•  Notes: 
+	
+3. Do you require real-time chargeback, usage metering, and transparent cost reporting for internal and external stakeholders?
+	• Yes - This is a mandatory requirement for financial governance and client billing.
+	• Yes - It's a high priority for departmental cost allocation and budget tracking.
+	• It would be nice to have for better visibility, but we have workarounds.
+	• No - This level of financial reporting is not currently needed.
+	• Notes: 
+	
+4. Would offering white-label AI cloud services under your own brand give you a competitive advantage in your market?
+	• Yes - It would create a significant new revenue stream and strategic advantage.
+	• Yes - It would provide a moderate advantage and enhance our brand.
+	• Potentially - It's an interesting option we would consider for the future.
+	• No - This is not relevant to our current business model. 
+	• Notes:
+
+Please make also have a submit button that will email john.mariani@nokia.com or submit to button which will allow a free text email function

@@ -1,0 +1,33 @@
+AI DC & Cloud Network Portal
+GitHub Pages Static Release - v3 FINAL
+
+Build Date: October 10, 2025
+Build Type: Production (GitHub Pages)
+Base Path: /AIDCPortalv2/
+
+Version 3 Changes (FINAL FIX):
+- Fixed: Dialog z-index increased to 9999 (was 50)
+- Dialog overlay z-index: 9998
+- Resolves issue where Leaflet map (z-index 400-1000) appeared over dialogs
+- Report modals now properly display above map in all cases
+
+Features:
+- Read-only data viewer with 705+ records
+- Interactive world map with address-based geocoding
+- Excel-style multi-select column filters
+- Advanced reporting with Top 40 drill-down
+- Sliding legend panel on map (from right side)
+- Neo Cloud Positioning survey form
+- Split-screen resizable layout
+- No backend or database required
+
+Technical Details:
+- Leaflet map z-index range: 400-1000
+- Dialog overlay z-index: 9998
+- Dialog content z-index: 9999
+- Map legend z-index: 10
+
+Data Source: Static Excel file (attached_assets/Portal Data_1759325555331.xlsx)
+
+Deployment Target: GitHub Pages
+Repository Path: /AIDCPortalv2/
